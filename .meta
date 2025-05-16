@@ -9,6 +9,7 @@
     "backend/isnarmesteleder": "https://github.com/navikt/isnarmesteleder",
     "backend/lps-oppfolgingsplan-mottak": "https://github.com/navikt/lps-oppfolgingsplan-mottak",
     "backend/meroppfolging-backend": "https://github.com/navikt/meroppfolging-backend",
+    "backend/narmesteleder": "https://github.com/navikt/narmesteleder",
     "backend/oppfolgingsplan-backend": "https://github.com/navikt/oppfolgingsplan-backend",
     "backend/syfobrukertilgang": "https://github.com/navikt/syfobrukertilgang",
     "backend/syfomotebehov": "https://github.com/navikt/syfomotebehov",
